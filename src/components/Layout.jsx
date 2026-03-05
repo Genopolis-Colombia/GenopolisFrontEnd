@@ -69,12 +69,8 @@ function Layout() {
       <footer className="footer" role="contentinfo">
         <div className="container">
           <div>
-            © 2025 Genopolis. <span className="badge">Maquetación HTML + CSS</span>{" "}
+            © 2026 Genopolis. <span className="badge">Maquetación</span>{" "}
             <span className="badge">Accesible</span>
-          </div>
-          <div className="helper">
-            Navegación por teclado recomendada: <span className="kbd">Tab</span>,{" "}
-            <span className="kbd">Shift</span>+<span className="kbd">Tab</span>
           </div>
         </div>
       </footer>
